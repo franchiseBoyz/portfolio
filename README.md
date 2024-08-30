@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, MargeAI, Snowflake, MATLAB
 
 ## Education
-- BSc Computer Information Systems | 							       		
+- BSc Computer Information Systems (_May 2023_) |
+- Data Analysis| Azubi AFrica (_November 2023_)						       		
 - Data Science	| Moringa School (_February 2024_)	 			        		
-- Data Analysis| Azubi AFrica (_May 2023_)
 
 # Freelance Data Scientist / Configuration Analyst
 *Self-Employed*  
