@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, MargeAI, Snowflake, MATLAB
 
 ## Education
-- BSc Computer Information Systems								       		
+- BSc Computer Information Systems | 							       		
 - Data Science	| Moringa School (_February 2024_)	 			        		
 - Data Analysis| Azubi AFrica (_May 2023_)
 
