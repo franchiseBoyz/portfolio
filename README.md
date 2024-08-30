@@ -1,4 +1,4 @@
-# Data Scientist
+# TROYE GILBERT
 
 #### Technical Skills: Python, SQL, MargeAI, Snowflake, MATLAB
 
