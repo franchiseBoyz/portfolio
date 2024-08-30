@@ -24,16 +24,21 @@
 - **Description**: Developed a recommendation system to provide personalized product suggestions based on user specifications. This system enhances online shopping experiences by simplifying decision-making and boosting customer satisfaction.
 - **Technologies Used**: Python, scikit-learn, TensorFlow, collaborative filtering, content-based filtering
 - **Impact**: Improved recommendation accuracy, resulting in higher user engagement and increased sales.
+![E-commerce Recommendation](/assets/img/ecommerce.jpg)
 
 ### [Customer Churn Prediction](https://www.upwork.com/freelancers/~011469a18cf3fda8a3?p=1826387223385079808)
 - **Description**: Built a machine learning model to predict whether a customer will churn in the next six months. This model helps businesses reduce customer churn by identifying at-risk customers and allowing for targeted retention strategies.
 - **Technologies Used**: Python, scikit-learn, logistic regression, decision trees, feature engineering
 - **Impact**: Enabled proactive customer retention measures, potentially increasing customer lifetime value and reducing revenue loss.
 
+![Customer Churn Rate](/assets/img/customer-churn-analysis.png)
+
 ### [Uber Data Analytics & ETL](https://www.upwork.com/freelancers/~011469a18cf3fda8a3?p=1826386232386564096)
 - **Description**: Conducted a comprehensive data analytics project on Uber data, leveraging various tools and technologies to extract, transform, and load (ETL) data. Utilized Google Cloud Platform (GCP) tools including Storage, Compute Instances, Mage Data Pipeline Tool, BigQuery, and Looker Studio for analysis and visualization.
 - **Technologies Used**: GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, Looker Studio
 - **Impact**: Provided actionable insights through data analysis and visualization, helping to optimize operational decisions and enhance strategic planning.
+
+![Uber Data Analysis](/assets/img/uber.jpg)
 
 ## Skills
 - **Programming**: Python, SQL
@@ -56,3 +61,5 @@
 - **Television Commercials**: Developed visual effects and animations for high-profile TV commercials, contributing to successful marketing campaigns and increased viewer engagement.
 - **Interactive Data Visualizations**: Created interactive data visualizations for a major client, enhancing their ability to present complex information in an accessible and engaging manner.
 - **Film Production**: Collaborated on visual effects for film projects, including 3D modeling and animation, which received positive feedback for their quality and creativity. 
+
+![Computer Graphics](/assets/img/graphics.jpg)
