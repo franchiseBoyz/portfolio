@@ -1,4 +1,5 @@
-# TROYE GILBERT
+
+## TROYE GILBERT
 
 #### Technical Skills: Python, SQL, MargeAI, Snowflake, MATLAB
 
@@ -7,7 +8,7 @@
 - Data Analysis| Azubi AFrica (_November 2023_)						       		
 - Data Science	| Moringa School (_February 2024_)	 			        		
 
-# Freelance Data Scientist / Configuration Analyst
+# Freelance Data Analyst
 *Self-Employed*  
 *January 2023 – Present*
 
