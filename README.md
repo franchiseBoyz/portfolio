@@ -63,8 +63,8 @@ Hi, I’m a Data Scientist with a robust background in data analysis, machine le
 Feel free to get in touch for collaboration, consulting, or if you have any queries.
 
 - **Email**: [troyegilbert@pm.me](mailto:troyegilbert@pm.me)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/troyegilbert77/)
-- **GitHub**: [GitHub Profile](https://github.com/franchiseBoyz)
+- [LinkedIn Profile](https://www.linkedin.com/in/troyegilbert77/)
+- [GitHub Profile](https://github.com/franchiseBoyz)
 
 ## References
 - **Bilha Wanjiru** (HR - Azam TV)  
