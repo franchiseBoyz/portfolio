@@ -63,7 +63,7 @@ Hi, I’m **Troye Gilbert**—a Data Scientist with a robust background in data 
 Feel free to get in touch for collaboration, consulting, or if you have any queries.
 
 - **Email**: [troyegilbert@pm.me](mailto:troyegilbert@pm.me)
-- **LinkedIn**: [LinkedIn Profile](#)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/troyegilbert77/)
 - **GitHub**: [GitHub Profile](https://github.com/franchiseBoyz)
 
 ## References
