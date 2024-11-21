@@ -1,6 +1,6 @@
 # Troye Gilbert
 
-Hi, I’m **Troye Gilbert**—a Data Scientist with a robust background in data analysis, machine learning, and data visualization. With expertise in building custom data models, creating intuitive dashboards, and managing complex databases, I strive to enhance decision-making through data-driven insights. My experience spans predictive modeling, AI, and graphics visualization, all geared toward solving business challenges with innovative solutions.
+Hi, I’m a Data Scientist with a robust background in data analysis, machine learning, and data visualization. With expertise in building custom data models, creating intuitive dashboards, and managing complex databases, I strive to enhance decision-making through data-driven insights. My experience spans predictive modeling, AI, and graphics visualization, all geared toward solving business challenges with innovative solutions.
 
 ## Skills
 
@@ -57,7 +57,7 @@ Hi, I’m **Troye Gilbert**—a Data Scientist with a robust background in data 
 - **Azure Data Scientist Associate** | 2023
 - **Google Cloud Data Engineer Certification** | 2023
 - **Udemy Data Science Course** | 2023
-- **Agile Scrum Master Certification**
+- **Agile Scrum Master Certification** | 2024
 
 ## Contact
 Feel free to get in touch for collaboration, consulting, or if you have any queries.
